@@ -1,3 +1,4 @@
 # AnalysisZero
-Versão preliminar do que um dia será um texto de Análise na Reta.
-O texto tem sofrido muitas reformulações, de modo que existem diversas referências fantasmas a partir do terceiro capítulo. Por enquanto, apenas os quatro primeiros capítulos podem ser lidos com relativa segurança.
+Versão apócrifa do meu texto voltado para Análise Real.
+
+Leia por sua conta e risco, já que há uma boa quantidade de erros.
